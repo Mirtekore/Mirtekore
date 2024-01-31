@@ -1,16 +1,16 @@
-### Hi there 👋
+## Library of Mirtekore
+This is an archive of the projects I've done from my studies at the University of Melbourne (2020 - 2024) + various hackathon / personal projects.
 
-<!--
-**Mirtekore/Mirtekore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Recommended music as you read through through:
 
-Here are some ideas to get you started:
+[![Music that I like](https://img.youtube.com/vi/YV1uwUziZqQ/0.jpg)](https://www.youtube.com/watch?v=YV1uwUziZqQ)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+TODO:
+Add projects
+Expand with notes about projects that can't be shared
+Upload uni notes on other corricular subjects
+
+
+
