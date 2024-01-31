@@ -43,20 +43,27 @@ Video presentation: https://youtu.be/gKgxQ2jPSjw
 
 ## 4. AI Twitter sentiment analysis
 
+### Project overview
+We created a cloud project on the UniMelb Research Cloud, it utilizes Twitter data exported from the Australian Data Observatory, public toots harvested from Australia's Mastodon server and geographic data about education and income level from the Spatial Urban Data Observatory. We use this information to ask the question: "What is Australia's general sentiment towards AI"
 
-## 5. RMI Java Whiteboard
+Video presentation: https://youtu.be/FSuPuhsM_EA
 
+# 2022 projects
 
+## Diabetes@home
 
-## 2022 projects
+### Project overview
+A web application that allows for seamless sharing of diabetes related data between clinicians and patients
 
+Demonstration link: https://spenk-diabetes.onrender.com
 
 
 
 TODO:
-Add projects
-Expand with notes about projects that can't be shared
-Upload uni notes on other corricular subjects
+- Add a eye catching thumbnail to each project
+- Expand on projects to include feedback, improvements, and reflections
+- Include the tools used to make the magic happen
+- Upload uni notes for each subject
 
 
 
