@@ -57,8 +57,10 @@ Technology used: Docker, Ansible, CouchDB, Nginx
 
 ## 5. Totally-Looks-Like challenge
 
+### Project overview
+This project is an attempt at Solbach and Rosenfield's "Totally Looks Like" challenge. We are given a candidate image and have to use neural networks to distinguish the most visually similar image to the candidate amongst a selection of 20 images. This image retrieval problem explores the use of features such as shapes, textures and color in computer vision to imitate human-like visual judgement.
 
-Technology used: Python
+Technology used: Python, cv2, Tensorflow, numpy
 
 ## 6. Supply and Demand modelling 
 
